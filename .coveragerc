@@ -1,0 +1,8 @@
+[run]
+branch = true
+
+[report]
+omit =
+    python/sdss_apogee/etc/*
+    python/sdss_apogee/misc/*
+    python/sdss_apogee/test/*
